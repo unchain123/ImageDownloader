@@ -13,6 +13,7 @@
 		8F3FECEB29AF3F0B00A8422C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F3FECE929AF3F0B00A8422C /* Main.storyboard */; };
 		8F3FECED29AF3F0C00A8422C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F3FECEC29AF3F0C00A8422C /* Assets.xcassets */; };
 		8F3FECF029AF3F0C00A8422C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F3FECEE29AF3F0C00A8422C /* LaunchScreen.storyboard */; };
+		8F3FECF829AF43AC00A8422C /* ImageDownTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3FECF729AF43AC00A8422C /* ImageDownTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8F3FECEC29AF3F0C00A8422C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8F3FECEF29AF3F0C00A8422C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8F3FECF129AF3F0C00A8422C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F3FECF729AF43AC00A8422C /* ImageDownTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageDownTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				8F3FECE329AF3F0B00A8422C /* AppDelegate.swift */,
 				8F3FECE529AF3F0B00A8422C /* SceneDelegate.swift */,
 				8F3FECE729AF3F0B00A8422C /* ViewController.swift */,
+				8F3FECF729AF43AC00A8422C /* ImageDownTableViewCell.swift */,
 				8F3FECE929AF3F0B00A8422C /* Main.storyboard */,
 				8F3FECEC29AF3F0C00A8422C /* Assets.xcassets */,
 				8F3FECEE29AF3F0C00A8422C /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8F3FECE829AF3F0B00A8422C /* ViewController.swift in Sources */,
+				8F3FECF829AF43AC00A8422C /* ImageDownTableViewCell.swift in Sources */,
 				8F3FECE429AF3F0B00A8422C /* AppDelegate.swift in Sources */,
 				8F3FECE629AF3F0B00A8422C /* SceneDelegate.swift in Sources */,
 			);
